@@ -98,7 +98,45 @@
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://ipfs.io/ipfs/QmfUoytZGzkDHabGyT4EXKkhSHTnn4yovSecfxnH9opobi?filename=3.png",
             "name": "#3",
-	    "attributes":[{"id":1,"layer":"background","name":"black","rarity":"original"},{"id":2,"layer":"ball","name":"white eye ball","rarity":"original"},{"id":7,"layer":"eye color","name":"purple big","rarity":"rare"},{"id":2,"layer":"iris","name":"medium","rarity":"original"},{"id":1,"layer":"shine","name":"shapes","rarity":"original"},{"id":1,"layer":"bottom lid","name":"high bottom","rarity":"original"},{"id":1,"layer":"top lid","name":"high top","rarity":"original"}]
+	    "attributes":
+	       [
+		{
+     		 "trait_type": "Background", 
+     		 "value": "Black"
+    		},
+
+		{
+     		 "trait_type": "Eye Ball Color", 
+     		 "value": "White"
+    		},
+
+		{
+     		 "trait_type": "Eye Color", 
+     		 "value": "Purple Big"
+    		},
+
+		{
+     		 "trait_type": "Iris", 
+     		 "value": "Medium"
+    		},
+
+		{
+     		 "trait_type": "Shine", 
+     		 "value": "Shapes"
+    		},
+		
+		{
+     		 "trait_type": "Bottom Lid", 
+     		 "value": "High"
+    		},
+
+		{
+     		 "trait_type": "Top Lid", 
+     		 "value": "High"
+    		},
+
+	       ]
+	   
         }
     ]
 }
