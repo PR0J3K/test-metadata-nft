@@ -7,8 +7,44 @@
             "image": "https://ipfs.io/ipfs/QmYAB7DJHwMg4jzAiyVPEywBxCEWH8WJ1thbTnh316k6MY?filename=1.png",
             "name": "#1",
 	    "attributes":
-		[
-		{"id":1,"layer":"background","name":"black","rarity":"original"},{"id":2,"layer":"ball","name":"white eye ball","rarity":"original"},{"id":5,"layer":"eye color","name":"pink big","rarity":"original"},{"id":1,"layer":"iris","name":"large","rarity":"original"},{"id":1,"layer":"shine","name":"shapes","rarity":"original"},{"id":3,"layer":"bottom lid","name":"tilted bottom","rarity":"rare"},{"id":1,"layer":"top lid","name":"high top","rarity":"original"}]
+	       [
+		{
+     		 "trait_type": "Background", 
+     		 "value": "Black"
+    		},
+
+		{
+     		 "trait_type": "Eye Ball Color", 
+     		 "value": "White"
+    		},
+
+		{
+     		 "trait_type": "Eye Color", 
+     		 "value": "Pink Big"
+    		},
+
+		{
+     		 "trait_type": "Iris", 
+     		 "value": "Large"
+    		},
+
+		{
+     		 "trait_type": "Shine", 
+     		 "value": "Shapes"
+    		},
+		
+		{
+     		 "trait_type": "Bottom Lid", 
+     		 "value": "Tilted"
+    		},
+
+		{
+     		 "trait_type": "Top Lid", 
+     		 "value": "High"
+    		},
+
+	       ]
+	  
         },
         {
             "id": 1,
