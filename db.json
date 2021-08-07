@@ -41,7 +41,7 @@
 		{
      		 "trait_type": "Top Lid", 
      		 "value": "High"
-    		},
+    		}
 
 	       ]
 	  
@@ -87,7 +87,7 @@
 		{
      		 "trait_type": "Top Lid", 
      		 "value": "High"
-    		},
+    		}
 
 	       ]
 	    
@@ -133,8 +133,8 @@
 		{
      		 "trait_type": "Top Lid", 
      		 "value": "High"
-    		},
-
+    		}
+		       
 	       ]
 	   
         }
